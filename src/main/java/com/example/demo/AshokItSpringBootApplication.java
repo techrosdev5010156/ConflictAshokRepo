@@ -8,11 +8,19 @@ public class AshokItSpringBootApplication {
 	public static void mul(){
 	}
 
+	public static void div(){
+	}
+
 	public static void main(String[] args) {
 		SpringApplication.run(AshokItSpringBootApplication.class, args);
 	}
+
+	public  static void  sub(){
+  }
+
 	public static void add(){
 		
+
 	}
 
 }
