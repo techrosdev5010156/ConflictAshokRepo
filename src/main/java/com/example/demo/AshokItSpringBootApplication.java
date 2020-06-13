@@ -9,5 +9,7 @@ public class AshokItSpringBootApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AshokItSpringBootApplication.class, args);
 	}
+	public  static void  sub(){
+	}
 
 }
